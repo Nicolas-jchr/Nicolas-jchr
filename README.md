@@ -1,6 +1,7 @@
 # 👋 Hi everyone ! 🌍
 <br><br>👉 Welcome to my GitHub page !  <br><br>📚 I am currently in professional retraining at Wild Code School. <br><br>🌐 Check out my LinkedIn: <br><br>📞 You can contact me ! 
 
+![Snake animation](https://raw.githubusercontent.com/{username}/{username}/output/github-contribution-grid-snake-dark.svg)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/nicolas-juchereau-33b3742b9/) 
